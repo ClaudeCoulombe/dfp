@@ -4,6 +4,8 @@ This repo hosts the code associated with my O'Reilly article, "Reinforcement Lea
 
 This the code in this repository contains implementations of Deep Q-Network, and [Learning to Act by Predicting the Future](https://arxiv.org/abs/1611.01779).
 
+Small corrections and additions by Claude COULOMBE - PhD candidate - TELUQ / UQAM - Montreal
+
 ## Requirements and installation
 In order to run this notebook, you'll need to install:
 * [TensorFlow v1.0](https://www.tensorflow.org/)
